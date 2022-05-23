@@ -1,0 +1,18 @@
+{
+  "name": "com.sorceressspell.librarioh.unity.managers.time",
+  "displayName": "LibrarIoh.Unity.Managers.Time",
+  "version": "0.1.0",
+  "type": "library",
+  "unity": "2018.1",
+  "description": "LibrarIoh.Unity.Managers.Time (https://github.com/SorceressSpell/LibrarIoh.Unity.Managers.Time)\n\nLibrarIoh's Time Manager for Unity.",
+  "dependencies": {},
+  "author": {
+    "name": "Sorceress' Spell",
+    "email": "Sorceress.Spell@gmail.com",
+    "url": "http://SorceressSpell.com"
+  },
+  "keywords": [
+    "librarioh",
+    "unity.managers.time"
+  ]
+}
