@@ -4,10 +4,10 @@
   "version": "0.1.0",
   "type": "library",
   "unity": "2018.1",
-  "description": "LibrarIoh.Unity.Managers.Time (https://github.com/SorceressSpell/LibrarIoh.Unity.Managers.Time)\n\nLibrarIoh's Time Manager for Unity.",
+  "description": "LibrarIoh.Unity.Managers.Time (https://github.com/SorceryStory/LibrarIoh.Unity.Managers.Time)\n\nLibrarIoh's Time Manager for Unity.",
   "dependencies": {},
   "author": {
-    "name": "Sorceress' Spell",
+    "name": "Joana Almeida",
     "email": "Sorceress.Spell@gmail.com",
     "url": "http://SorceressSpell.com"
   },
